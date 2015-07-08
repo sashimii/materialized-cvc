@@ -12215,3 +12215,8 @@ main {
 nav {
   background-color: #eceff1;
 }
+
+/* line 18, ../sass/custom/_styles.scss */
+.desktop-logo {
+  height: 100px;
+}
