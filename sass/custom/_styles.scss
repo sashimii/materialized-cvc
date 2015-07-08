@@ -10,11 +10,25 @@
     flex: 1 0 auto;
   }
 
-
+/* Navigation Rules */
 nav {
   background-color: color("blue-grey", "lighten-5");
 }
 
 .desktop-logo {
-  height: 100px;
+  height: 40px;
+  margin:10px;
+  opacity: 0.75;
+}
+
+/* Introduction Rules */
+
+// Background Images Go Here
+.concord-bg {
+  background: url('../img/concord.jpg');
+  height:900px;
+  width: 100%;
+  background-size: 1920px;
+  background-attachment: fixed;
+
 }
